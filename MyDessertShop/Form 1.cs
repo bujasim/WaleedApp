@@ -18,9 +18,67 @@ namespace MyDessertShop
         private bool discountApplied = false;
         private KeyboardForm keyboard;
 
+        // Original design dimensions
+        private const int DesignWidth = 1902;
+        private const int DesignHeight = 1033;
+
+        // Container that holds all content at design size
+        private Panel contentContainer;
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void ApplyFullscreenScaling()
+        {
+            // Get the screen bounds (use full screen for kiosk mode)
+            var screenBounds = Screen.PrimaryScreen.Bounds;
+
+            // Set form to true fullscreen with black background for letterboxing
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Normal;
+            this.Bounds = screenBounds;
+            this.BackColor = Color.Black;
+
+            // Create container at exact design size
+            contentContainer = new Panel();
+            contentContainer.Size = new Size(DesignWidth, DesignHeight);
+            contentContainer.BackColor = Color.FromArgb(249, 245, 238); // Original form color
+
+            // Move all controls from form into the container
+            var controlsToMove = new List<Control>();
+            foreach (Control c in this.Controls)
+            {
+                controlsToMove.Add(c);
+            }
+            foreach (Control c in controlsToMove)
+            {
+                this.Controls.Remove(c);
+                contentContainer.Controls.Add(c);
+            }
+
+            // Add container to form
+            this.Controls.Add(contentContainer);
+
+            // Calculate uniform scale factor (use smaller to prevent clipping)
+            float scaleX = (float)screenBounds.Width / DesignWidth;
+            float scaleY = (float)screenBounds.Height / DesignHeight;
+            float uniformScale = Math.Min(scaleX, scaleY);
+
+            // Scale the entire container as one unit
+            contentContainer.Scale(new SizeF(uniformScale, uniformScale));
+
+            // Center the container on screen
+            int scaledWidth = (int)(DesignWidth * uniformScale);
+            int scaledHeight = (int)(DesignHeight * uniformScale);
+            contentContainer.Location = new Point(
+                (screenBounds.Width - scaledWidth) / 2,
+                (screenBounds.Height - scaledHeight) / 2
+            );
+
+            // Update debug title
+            this.Text = $"DEBUG | Screen: {screenBounds.Width}x{screenBounds.Height}, Scale: {uniformScale:F2}";
         }
 
         private void StartBtn_Click(object sender, EventArgs e)
@@ -285,17 +343,14 @@ namespace MyDessertShop
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Apply fullscreen scaling before showing any panels
+            ApplyFullscreenScaling();
+
             WelcomePanel.Visible = true;
             menuPanel.Visible = false;
             panelItemsDetails.Visible = false;
 
             this.ActiveControl = MenuLbl;
-
-            // Debug: Show screen info in title bar
-            var screen = Screen.PrimaryScreen;
-            var total = screen.Bounds;
-            var working = screen.WorkingArea;
-            this.Text = $"DEBUG | Screen: {total.Width}x{total.Height}, Working: {working.Width}x{working.Height}, Form: {this.Width}x{this.Height}";
         }
 
         private void searchView_Click(object sender, EventArgs e)
