@@ -680,16 +680,9 @@ namespace MyDessertShop
                 };
             }
 
-            
             keyboard.SetTextBoxForOutput(tb);
-
-            
             keyboard.Show();
-
-            
-            var screenPos = tb.PointToScreen(Point.Empty);
-            keyboard.Left = screenPos.X + tb.Width - 900;
-            keyboard.Top = screenPos.Y + tb.Height + 200;
+            keyboard.PositionNear(tb);
         }
 
 
