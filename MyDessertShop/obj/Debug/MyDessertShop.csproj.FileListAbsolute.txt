@@ -1,0 +1,49 @@
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\MyDessertShop.exe.config
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\MyDessertShop.exe
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\MyDessertShop.pdb
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.csproj.AssemblyReference.cache
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.Form1.resources
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.Properties.Resources.resources
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.csproj.GenerateResource.cache
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.csproj.CoreCompileInputs.cache
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.exe
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.pdb
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.exe.config
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\AForge.dll
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\AForge.Video.dll
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\zxing.dll
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\zxing.presentation.dll
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\AForge.xml
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\AForge.Video.xml
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\zxing.xml
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\bin\Debug\zxing.presentation.xml
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.CameraForm.resources
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDesser.A12DF6D0.Up2Date
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.KeyboardForm.resources
+C:\Users\walee\OneDrive - British University of Bahrain\Uni\L4\Semester 1\Web Dev & HCI\Assignment\MyDessertShop\MyDessertShop\obj\Debug\MyDessertShop.NotificationForm.resources
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.CameraForm.resources
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.Form1.resources
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.KeyboardForm.resources
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.NotificationForm.resources
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.Properties.Resources.resources
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.csproj.GenerateResource.Cache
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.exe
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.pdb
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\MyDessertShop.exe.config
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\MyDessertShop.exe
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\MyDessertShop.pdb
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\AForge.dll
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\AForge.Video.DirectShow.dll
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\AForge.Video.dll
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\zxing.dll
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\zxing.presentation.dll
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\AForge.xml
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\AForge.Video.xml
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\AForge.Video.DirectShow.xml
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\zxing.xml
+D:\dev\WaleedApp\MyDessertShop\bin\Debug\zxing.presentation.xml
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.csproj.AssemblyReference.cache
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDessertShop.csproj.CoreCompileInputs.cache
+D:\dev\WaleedApp\MyDessertShop\obj\Debug\MyDesser.A12DF6D0.Up2Date

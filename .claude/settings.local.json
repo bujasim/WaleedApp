@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(\"/mnt/c/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/MSBuild/Current/Bin/MSBuild.exe\" MyDessertShop.sln /t:Build /p:Configuration=Debug)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
